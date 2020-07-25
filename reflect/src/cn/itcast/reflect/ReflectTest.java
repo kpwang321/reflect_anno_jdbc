@@ -1,7 +1,5 @@
 package cn.itcast.reflect;
 
-import cn.itcast.domain.Person;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.lang.reflect.InvocationTargetException;
